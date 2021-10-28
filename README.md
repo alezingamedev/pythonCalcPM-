@@ -1,2 +1,2 @@
 # pythonCalcPM-
-simcara
+projetinho quase inutil, OpenSource
