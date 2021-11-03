@@ -10,7 +10,8 @@ var3=int(input("qual o terceiro fator?"))
 var4=int(input("qual o quarto fator?"))
 var5=int(input("qual o quinto fator?"))
 var6=int(input("qual o sexto fator?"))
-varfinal = var1 * var2 * var3 * var4 * var5 * var6
+var7=int(input("qual o sétimo fator?"))
+varfinal = var1 * var2 * var3 * var4 * var5 * var6 * var7
 print ("calculando resposta.")
 if varfinal>10000:
   print ("obtendo mais nucleos para processamento de resposta, aguarde.")
